@@ -27,3 +27,8 @@
 
 - 팀방에서 상호간의 커뮤니케이션
 
+## More Information
+- 웹 프론트엔드 (https://github.com/chan-00/graduate-project-remake)
+- 웹 백엔드 ()
+- 유니티 프론트엔드 ()
+- 유니티 백엔드 ()
