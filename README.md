@@ -29,6 +29,6 @@
 
 ## More Information
 - 웹 프론트엔드 (https://github.com/chan-00/graduate-project-remake)
-- 웹 백엔드 ()
+- 웹 백엔드 (https://github.com/ghostclog/public_graduation_work)
 - 유니티 프론트엔드 ()
 - 유니티 백엔드 ()
